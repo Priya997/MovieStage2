@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PopularMovies2</string>
+    <string name="title_activity_details">DetailsActivity</string>
+
+
+    <string name="image_error">Image Not Found</string>
+    <string name="no_data_error">No Data Available</string>
+    <string name="model_image">Model_image</string>
+    <string name="title_label">Title :</string>
+    <string name="overview_label">Overview :</string>
+    <string name="rating_label">Rating :</string>
+    <string name="release_date_label">Release Date :</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="menu_title">This</string>
+    <string name="trailers"><![CDATA[Trailers ->]]></string>
+    <string name="reviews"><![CDATA[Reviews ->]]></string>
+    <string name="add_to_favourites">Add To Favourites</string>
+    <string name="author">Author :</string>
+    <string-array name="choice">
+        <item>"Popular"</item>
+        <item>"Top Rated"</item>
+        <item>"Favourites"</item>
+    </string-array>
+</resources>

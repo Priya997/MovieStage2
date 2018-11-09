@@ -1,0 +1,8 @@
+<resources>
+
+    <dimen name="margin_short">8dp</dimen>
+    <dimen name="margin_med">16dp</dimen>
+    <dimen name="trailer_img_height">150dp</dimen>
+    <dimen name="card_width_trailers">200dp</dimen>
+    <dimen name="elevation">5dp</dimen>
+</resources>
